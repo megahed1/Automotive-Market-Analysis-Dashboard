@@ -48,7 +48,6 @@ The client needed actionable, data-driven answers to the following questions to 
 ## 📸 Additional Dashboard Views
 
 ### Impact of Engine Type on Sales Performance
-*(Make sure to upload the second image to your Dashboard folder and update the link below if the name is different)*
 ![Engine Impact Dashboard](https://github.com/megahed1/Automotive-Market-Analysis-Dashboard/blob/main/Dashboard/Car%20Dashboard.png?raw=true)
 
 ---
